@@ -1,0 +1,21 @@
+{
+  "name": "consistently-minimal",
+  "displayName": "Consistently Minimal",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Consistently Minimal",
+        "uiTheme": "vs",
+        "path": "./themes/Consistently Minimal-color-theme.json"
+      }
+    ]
+  }
+}
